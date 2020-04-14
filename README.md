@@ -6,3 +6,6 @@
 4. samsung SSD 970 PRO 512GB 
 5. Asus tuf3-rx5700xt-o8g-gaming
 6. Monitor DELA124 DELL U3219Q
+
+The score of the geekbench for rx5700xt
+![score](rx5700xt-geekbench5.png)
